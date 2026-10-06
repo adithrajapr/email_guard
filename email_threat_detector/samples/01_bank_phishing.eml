@@ -1,0 +1,31 @@
+From: SBI Support <alerts@sbi-secure-login.xyz>
+To: student@example.com
+Reply-To: claims@gmail-helpdesk.top
+Subject: URGENT: Your SBI account is blocked - update KYC
+Date: Mon, 05 Oct 2026 09:12:00 +0000
+Authentication-Results: mx.example.com; spf=fail; dkim=none; dmarc=fail
+Received: from mail.evil-host.xyz ([185.220.101.45]) by mx.example.com; Mon,
+ 05 Oct 2026 09:12:00 +0000
+Received: from relay.example.net ([10.0.0.5]) by mx.example.com; Mon, 05 Oct
+ 2026 09:12:05 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============7243721751919570501=="
+
+--===============7243721751919570501==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear customer, your SBI account has been blocked. Update your KYC immediately=
+ and share the OTP within 24 hours.
+
+--===============7243721751919570501==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Dear customer, your account is blocked. Verify password and OTP now: <a hr=
+ef=3D"http://sbi-secure-login.xyz/verify">www.onlinesbi.com</a> or http://bit=
+.ly/3xYzKyc</p>
+
+--===============7243721751919570501==--

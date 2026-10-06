@@ -1,0 +1,12 @@
+From: Prof. Rao <rao@college.ac.in>
+To: student@example.com
+Subject: Project review meeting tomorrow
+Date: Mon, 05 Oct 2026 15:30:00 +0530
+Authentication-Results: mx.example.com; spf=pass; dkim=pass; dmarc=pass
+Received: from mail.college.ac.in ([14.139.200.10]) by mx.example.com
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hi team, attaching the agenda for tomorrow's project review at 10 AM. Please =
+go through the slides before we meet.

@@ -1,0 +1,25 @@
+From: Accounts <billing@amaz0n-invoices.work>
+To: student@example.com
+Subject: Invoice attached - open immediately
+Date: Tue, 06 Oct 2026 08:00:00 +0000
+Authentication-Results: mx.example.com; spf=softfail; dkim=none; dmarc=none
+Received: from vps.amaz0n-invoices.work ([45.155.205.9]) by mx.example.com
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1297643445056160513=="
+
+--===============1297643445056160513==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Please open the attached invoice and enable macros to view the payment detail=
+s immediately.
+
+--===============1297643445056160513==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+MIME-Version: 1.0
+
+RFVNTVktTk9ULVJFQUwtTUFMV0FSRQ==
+
+--===============1297643445056160513==--
